@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/narriteration/provisioning_app/issues"
   },
-  "homepage": "https://github.com/narriteration/provisioning_app#readme"
+  "homepage": "https://github.com/narriteration/provisioning_app#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
